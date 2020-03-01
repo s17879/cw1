@@ -1,4 +1,4 @@
 # cw1
-Sonia Wronkowska
-17c
-s17879
+# Sonia Wronkowska
+# grupa 17c
+# s17879
